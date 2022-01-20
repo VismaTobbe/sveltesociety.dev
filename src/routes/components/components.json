@@ -1,5 +1,17 @@
 [
 	{
+	    "title": "svelte-stack-router",
+	    "url": "https://github.com/cdellacqua/svelte-stack-router",
+	    "description": "Bridging the gap between Native Apps and WebApps. A Svelte Router that caches page components and will make your WebApp feel more native",
+	    "npm": "svelte-stack-router",
+	    "addedOn": "2022-01-20",
+	    "category": "Routers",
+	    "tags": [
+		"routers"
+	    ],
+	    "stars": 30
+	},
+	{
 		"title": "Date Picker Svelte",
 		"url": "https://github.com/probablykasper/date-picker-svelte",
 		"description": "Date and time picker for Svelte",
